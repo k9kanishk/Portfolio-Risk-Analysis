@@ -10,8 +10,8 @@ This repository contains a comprehensive risk analysis of a portfolio comprising
 
 ## Contents
 
-1. `Portfolio_Risk_Analysis.ipynb`: Jupyter notebook containing the detailed Python code, analysis, and visualizations.
-2. `Risk_Analysis_Report.docx`: Comprehensive report detailing the methodologies, results, visualizations, and discussions.
+1. `Python Project - Portfolio Risk Analysis Tool.ipynb`: Jupyter notebook containing the detailed Python code, analysis, and visualizations.
+2. `Python Project - Portfolio Risk Analysis Tool- Report.docx`: Comprehensive report detailing the methodologies, results, visualizations, and discussions.
 
 ## Methodologies
 
