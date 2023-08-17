@@ -30,7 +30,7 @@ Visual representations include:
 
 ## Conclusions and Recommendations
 
-The project concludes with insights derived from the analysis, emphasizing the importance of diversification and the continual review of risk models. For detailed findings and recommendations, refer to the `Risk_Analysis_Report.docx`.
+The project concludes with insights derived from the analysis, emphasizing the importance of diversification and the continual review of risk models. For detailed findings and recommendations, refer to the `Python Project - Portfolio Risk Analysis Tool- Report.docx`.
 
 ## Author
 
